@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "description": "Learn JavaScript Properly"
+  },
+  {
+    "id": 2,
+    "description": "learn java",
+    "status": "todo"
+  },
+  {
+    "id": 3,
+    "description": "learn nodejs",
+    "status": "todo"
+  },
+  {
+    "id": 4,
+    "description": "Learn JavaScript",
+    "status": "todo"
+  }
+]
